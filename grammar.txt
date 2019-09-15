@@ -17,18 +17,14 @@
 "#namestogether# #transitiveplural# #mainnames#",
 "#namestogether# #transitiveplural# #mainnames#",
 "#names# and #names# #transitiveplural# #names#",
-"#names# and #names# #verbsplural#",
-"#mainnames# and #names# #verbsplural2#",
 "#mainnames# and #names# #verbsplural3#",
-"#names# #transitive# #mainnames#", 
-"#mainnames# #transitive# #names#", 
+"#names# #transitive# #names#", 
 "#mainnames# #transitive# #objects#", 
-"#names# #transitive# #objects#", 
-"#names# #transitive# #names#",
 "#names#, #names#, and #mainnames# are the real sequel trilogy trio",
 "#mainnames# #soloverbs#",
 "#mainnames# #soloverbs#",
 "#mainnames# #soloverbs#",
+"#mainnames# #soloverbs#"
 ],
 
 "transitive": ["kills", "fights", "eats", "captures", "rescues", "races", "destroys", "returns to", "kisses", "attacks", "befriends", "joins forces with", "creates a new jedi order with", "goes out to lunch with", "pilots a tie fighter with", "finds a map to", "escapes from", "seeks out", "uses a jedi mind trick on", "steals", "sends an imperial probe droid to find", "saves", "finds a message in", "sends a message to", "gives a jacket to", "starts a mutiny with", "trains", "builds", "discovers that their father is", "discovers that their mother is", "turns out to actually be", "force-bonds with", "force-times with", "turns to the dark side with", "marries", "goes on a date with", "becomes new best friends with", "has a dance routine with", "falls in love with", "is insulted by", "moves rocks with", "reads the jedi texts to", "reveals their true identity to", "plays a holo-chess match against", "gives a resistance ring to", "steals a freighter with", "is not alone. and neither is", "is a double agent, and betrays", "sends a secret letter to", "has a bad feeling about", "borrows", "repairs", "is", "is a clone of"],  
@@ -41,7 +37,7 @@
 
 "mainnames" : ["kylo ren", "rey", "ben solo", "bb8", "finn", "poe", "rose", "palpatine", "jannah", "lando", "zorri", "matt smith's character", "the force"],
 
-"soloverbs": ["dies", "was a clone of the emperor all along", "is actually a young palpatine (time travel)", "is killed by dark rey", "has a redemption arc", "is a double agent", "opens up to the darkside for a pair of pretty eyes", "opens up to the dark side for a cool red double-bladed lightsaber", "goes shopping in kylo ren's closet", "moves into the millennium falcon", "pretends to be a knight of ren", "goes by the nickname mar gave them", "is not in the moive at all and this is never explained", "is explained in the opening crawl to have died between movies", "is going to be in the obi-wan series somehow", "is going to be in the mandalorian somehow", "gets a sweet new purple lightsaber", "gets a sweet new green lightsaber", "sends rey to the dark side", "reprograms c3po to be evil", "will return in episode X"]
+"soloverbs": ["dies", "was a clone of the emperor all along", "is actually a young palpatine (time travel)", "is killed by dark rey", "has a redemption arc", "is a double agent", "opens up to the darkside for a pair of pretty eyes", "opens up to the dark side for a cool red double-bladed lightsaber", "goes shopping in kylo ren's closet", "moves into the millennium falcon", "pretends to be a knight of ren", "goes by the nickname mar gave them", "is not in the moive at all and this is never explained", "is explained in the opening crawl to have died between movies", "is going to be in the obi-wan series somehow", "is going to be in the mandalorian somehow", "gets a sweet new purple lightsaber", "gets a sweet new green lightsaber", "sends rey to the dark side", "reprograms c3po to be evil", "will return in episode X", "is a literal baby"]
 
 "namestogether" : ["rey and ben solo", "kylo ren and ben solo", "kylo ren and rey", "rey and kylo ren", "ben solo and rey", "rey and bb8", "bb8 and rey", "bb8 and poe", "bb8 and a porg", "lando and wicket", "lando and leia", "poe and bb8", "poe and lando", "c3po and r2d2", "r2d2 and bb8", "leia and ben solo", "luke and yoda's force ghosts", "luke and anakin's force ghosts", "rose and rey", "rey and finn", "finn and rose", "finn and poe", "poe and finn", "chewie and the porgs", "chewie and leia", "chewie and lando", "the rebels", "the first order stormtroopers", "finn and the stormtroopers", "bb8 and bb9e", "kylo and hux", "hux and finn", "hux and rose", "rose and bb8", "finn and rey", "rey and maz kanata", "chewie and maz kanata", "maz kanata and the codebreaker", "maz kanata and dj", "the millenium falcon and its crew", "phasma and finn", "rey and ben", "rey and leia", "luke's force ghost and rey", "bb8 and finn", "poe and bb8", "lando and bb8", "bb9e and hux", "hux and bb9e", "kylo ren and bb9e", "bb8 and bb9e", "rey and a knight of ren", "finn, poe, and rey", "rey, poe, and bb8", "rey, ben, poe, and finn", "hux and rose", "snoke and rey", "leia and rey", "rey and lando", "wicket and bb8", "wicket and a porg", "rey and bb8", "rey and bb8", "rey and bb8", "poe and bb8", "ben and rey", "the knights of ren", "finn and rey", "finn and rose", "bb-8 and cb-23", "bb-8, cb-23, and bb-9e", "the millennium falcon and an x-wing", "bb-8 and d-0", "chewie and the droids", "jannah and poe", "jannah and finn", "jannah and rey", "the original trilogy trio", "the prequel trilogy trio", "the sequel trilogy trio"],
 
