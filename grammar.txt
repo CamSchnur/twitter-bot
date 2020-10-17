@@ -1,22 +1,33 @@
 {
 "origin": [
 
-"#anyseries##livingcharacters# #livingtodead# #deadcharacters#",
 "#anyseries##livingcharacters# and #deadcharacters# meet in the world between worlds and #verbsplural#",
-"#anyseries##livingcharacters# and #livingcharacters# meet",
+"#anyseries##livingcharacters# and #deadcharacters# meet in the world between worlds and #verbsplural#",
+"#anyseries##livingcharacters# resurrects #deadcharacters# and they #verbsplural#",
 "#anyseries##livingcharacters# and #livingcharacters# #verbsplural#",
-"#anyseries##livingcharacters# #transitive# #livingcharacters#"],
+"#anyseries##livingcharacters# #livingtodead# #deadcharacters#",
+"#anyseries##livingcharacters# #transitive# #livingcharacters#"
+"#anyseries##livingcharacters# #intransitive#",
+"#anyseries##livingcharacters# finds that somehow, #deadcharacters# #deadcharactersverb#"],
 
-"verbsplural": ["defy every cynical narrative", "rebuild the jedi temple on ilum", "build a jedi temple on tatooine", "dig up luke and leia's sabers", "get a spinoff series", "fall in love", "are reunited", "are stranded in deep space", "are married", "are revealed to be related", "fight", "destroy each other", "eat roast porg"],
+"verbsplural": ["defy every cynical narrative", "rebuild the jedi temple on ilum", "build a jedi temple on tatooine", "dig up luke and leia's sabers", "get a spinoff series", "fall in love", "are reunited", "are stranded in deep space", "are married", "are revealed to be related", "fight", "destroy each other", "eat roast porg", "turn to the dark side", "become scavengers", "start the new empire", "take a droid-building class", "communicate telepathically", "go back to jakku", "fly off into the sunset in the falcon", "discover an ancient sith dagger", "become bounty hunters", "become a clan of two", "are hunted by the new empire", "are connected through the force", "race pods", "find a treasure map", "move in together", "start dating", "become best friends", "are never seen again", "make out", "discover that bounting hunting is a complicated profession", "fall into a trap", "fulfill their destiny", "lose all their memories & settle on a farm on tatooine together", "meet", "come home"],
+
 "transitive": ["eats", "kills", "destroys", "falls in love with", "protects", "fights for", "fights", "gives a gift to", "heals", "captures", "repairs", "builds", "has a bad feeling about", "returns to", "kisses", "is revealed to be related to", "is a clone of", "visits"] ,
-"livingtodead": ["goes to the world between worlds to find", "wants to resurrect", "is haunted by the ghost of", "drinks at the cantina to forget", "talks to the ghost of", "learns the secrets left behind by", "misses", "writes a holo-novel about", "is revealed to be a descendant of", "is revealed to be related to", "is a clone of"],
+
+"livingtodead": ["goes to the world between worlds to find", "wants to resurrect", "is haunted by the ghost of", "drinks at the cantina to forget", "meets the ghost of", "learns the secrets left behind by", "misses", "writes a holo-novel about", "is a clone of", "takes the last name of", "creates a clone of"],
+
+"intransitive": ["dies", "is a palpatine", "takes the name skywalker", "loses a hand", "becomes the next ruler of the galaxy", "turns to the dark side", "rebuilds the jedi order", "is frozen in carbonite", "goes back to jakku", "is destroyed"],
+
+"deadcharactersverb": ["has returned", "never actually died", "left a secret message on a dagger", "has not returned", "was actually a palpatine"],
 
 
-"anyseries": ["", "", "", "", "", "", "in the lego holiday special, ", "in a spinoff series, ", "in the next trilogy, "],
+"anyseries": ["", "", "", "", "", "", "in the lego holiday special, ", "in the lego holiday special, ", "in a spinoff series, ", "in the next trilogy, "],
 
-"livingcharacters": ["finn", "rey", "chewie", "jannah", "poe", "rose tico", "lando", "bb8", "r2d2", "c3po", "zorri", "rey", "finn", "poe", "admiral thrawn", "sabine wren", "ahsoka", "vi moradi", "cal kestis" ],
-"deadcharacters": ["ben solo", "ben kenobi", "anakin skywalker", "palpatine", "han solo", "leia", "luke", "ben solo", "ben solo", "ben", "boba fett", "hux", "aunt beru", "qui-gon", "shmi skywalker", "grand moff tarkin", "paige tico", "padmé", "maul", "yoda", "count dooku", "trilla" ]
 
+
+"livingcharacters": ["finn", "finn", "rey", "rey", "rey", "finn", "poe", "chewie", "jannah", "poe", "rose tico", "lando", "bb8", "bb8", "r2d2", "c3po", "zorri", "admiral thrawn", "sabine wren", "ahsoka", "vi moradi", "cal kestis", "the mandalorian", "baby yoda", "babu frik", "the millennium falcon", "q'ira", "enfys nest"],
+
+"deadcharacters": ["ben solo", "ben kenobi", "anakin skywalker", "palpatine", "han solo", "leia", "luke", "ben solo", "ben solo", "ben", "boba fett", "hux", "aunt beru", "qui-gon", "shmi skywalker", "grand moff tarkin", "paige tico", "padmé", "maul", "yoda", "count dooku", "trilla", "trilla", "ben solo", "vader" ]
 
 } 
 
