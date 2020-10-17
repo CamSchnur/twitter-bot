@@ -1,27 +1,22 @@
 {
 "origin": [
-"in a new series on disney+, #charactersplural# #verbsplural#",
-"in the next trilogy, #charactersplural# #verbsplural#", 
-"in the obi-wan series, #obiwancharacters# and #obiwancharacters# #verbsplural#", 
-"in the obi-wan series, #obiwancharacters# #transitive# #obiwancharacters#", 
-"in season 2 of the mandalorian, #mandocharacters# and #mandocharacters# #verbsplural#", 
-"the next #showtype# is a #genre# with #obiwancharacters# and #obiwancharacters#",
-"the next #showtype# is a #genre# with #charactersplural#", 
-"the next #showtype# is a #genre# with #prequelcharacters# and #prequelcharacters#",
-"the next #showtype# is a #genre# with #mandocharacters# and #mandocharacters#"] ,
 
-"genre" :["romance", "buddy cop comedy", "sitcom", "procedural crime drama", "detective story", "coming of age story", "story about enemies to lovers", "story where everyone dies", "nostalgia fest", "comedy", "western", "heist story", "thriller", "horror story", "space opera", "story about found family"], 
-"showtype" :["trilogy", "standalone film", "disney+ series"], 
-"mandocharacters": ["the mandalorian", "baby yoda", "cara dune", "greef karga", "doctor pershing ", "fennec shand", "moff gideon", "omera", "the armorer", "lando", "another bounty hunter", "an ig unit", "bossk", "an imperial warlord", "a former stormtrooper", "an r2 unit", "a jawa", "a hutt", "a speeder bike", "another mandalorian", "cgi leia", "boba fett", "a porg", "chewbacca", "wedge", "luke skywalker" ],  
+"#anyseries##livingcharacters# #livingtodead# #deadcharacters#",
+"#anyseries##livingcharacters# and #deadcharacters# meet in the world between worlds and #verbsplural#",
+"#anyseries##livingcharacters# and #livingcharacters# meet",
+"#anyseries##livingcharacters# and #livingcharacters# #verbsplural#",
+"#anyseries##livingcharacters# #transitive# #livingcharacters#"],
 
-"obiwancharacters":["obi-wan", "uncle owen", "aunt beru", "young luke", "young biggs", "young greedo", "qui-gon's force ghost", "maul", "q'ira", "a group of jawas", "a tusken raider", "a landspeeder", "obi-wan", "the mayor of mos eisley", "a space slug", "a moisture vaporator", "anakin's lightsaber", "boba fett", "jabba the hutt", "jar-jar binks", "yoda", "palpatine", "young lando" ], 
+"verbsplural": ["defy every cynical narrative", "rebuild the jedi temple on ilum", "build a jedi temple on tatooine", "dig up luke and leia's sabers", "get a spinoff series", "fall in love", "are reunited", "are stranded in deep space", "are married", "are revealed to be related", "fight", "destroy each other", "eat roast porg"],
+"transitive": ["eats", "kills", "destroys", "falls in love with", "protects", "fights for", "fights", "gives a gift to", "heals", "captures", "repairs", "builds", "has a bad feeling about", "returns to", "kisses", "is revealed to be related to", "is a clone of", "visits"] ,
+"livingtodead": ["goes to the world between worlds to find", "wants to resurrect", "is haunted by the ghost of", "drinks at the cantina to forget", "talks to the ghost of", "learns the secrets left behind by", "misses", "writes a holo-novel about", "is revealed to be a descendant of", "is revealed to be related to", "is a clone of"],
 
-"prequelcharacters" :["anakin", "padme", "palpatine", "obi-wan", "jar-jar binks", "young lando", "r2d2 and c3po", "yoda"] , 
-"charactersplural": ["ben and rey", "rose and rey", "rose and finn", "finn and poe", "han and leia", "anakin and obi-wan", "anakin and padmé", "c3po and r2-d2", "qui-gon and obi-wan", "zorri and poe", "vader and tarkin", "kylo ren and Hux", "wicket and the ewoks", "bb8 and poe", "bb8 and rey", "bb8 and d0", "boba and jango fett", "han and chewie", "the millennium falcon and an x-wing", "rey and maz", "maz and chewie"  ], 
 
-"verbsplural": ["go on adventures", "are bounty hunters", "hunt down and destroy potential new jedi", "find and train new jedi", "start construction on another death star", "are roommates", "fall in love", "are reunited", "are stranded in deep space", "go on a series of time-traveling adventures", "are married", "are revealed to be related", "make the kessel run", "eat roast porg", "discover that bounty hunting is a complicated profession", "find that palpatine has returned", "race pods", "become the basis for a new clone army", "discover a new planet", "discover an ancient sith temple", "travel in single file to hide their numbers","play holo-chess", "go back to jakku", "get lost on tattooine", "go camping on the forest moon of endor", "jump into a trash compactor", "party with ewoks",   "are rebel scum", "fix the hyperdrive", "bypass the compressor", "wear masks", "make the kessel run in less than 12 parsecs", "make point five past light-speed", "turn to the dark side", "have zero lines of dialog", "come home", "are actually rey's parents", "are redeemed", "discover palpatine's grave", "cuddle", "break the fourth wall", "are frozen in carbonite",   "ride off into the sunset together", "are slowly digested over a thousand years", "go on a daring mission", "form a new alliance", "find a message in r2d2", "come out of hyperspace too close to the hoth system", "freeze before they reach the first marker", "fulfill their destiny", "fall straight into a trap", "find that there is another skywalker",    "are connected through the force", "turn out to be double-agents", "perform the holdo maneuver", "wear stormtrooper armor","lose their hands", "discover a baby yoda"], 
+"anyseries": ["", "", "", "", "", "", "in the lego holiday special, ", "in a spinoff series, ", "in the next trilogy, "],
 
-"transitive": ["eats", "kills", "destroys", "falls in love with", "misses", "protects", "fights for", "fights", "gives a gift to", "heals", "captures", "repairs", "builds", "has a bad feeling about", "returns to", "kisses", "is revealed to be related to", "is a clone of", "visits"] 
+"livingcharacters": ["finn", "rey", "chewie", "jannah", "poe", "rose tico", "lando", "bb8", "r2d2", "c3po", "zorri", "rey", "finn", "poe", "admiral thrawn", "sabine wren", "ahsoka", "vi moradi", "cal kestis" ],
+"deadcharacters": ["ben solo", "ben kenobi", "anakin skywalker", "palpatine", "han solo", "leia", "luke", "ben solo", "ben solo", "ben", "boba fett", "hux", "aunt beru", "qui-gon", "shmi skywalker", "grand moff tarkin", "paige tico", "padmé", "maul", "yoda", "count dooku", "trilla" ]
+
 
 } 
 
